@@ -25,7 +25,7 @@ var sections = [
 	],
 	[
 		"Do you have a blog?",
-		"Actually, I'm writing posts and writeups for <a href='https://felinesec.com/'>FelineSec</a>.\nI made a <b>list</b> where you can find <b>my posts</b>: <a href='https://blog.jackrendor.net'>blog.jackrendor.net</a>"
+		"Actually, I'm writing posts and writeups for <a href='https://felinesec.com/'>FelineSec</a>.\nI am also working on my personal blog at the following url: <a href='https://blog.jackrendor.dev'>blog.jackrendor.dev</a>"
 	],
 	[
 		"If you don't build websites, who made this?",
